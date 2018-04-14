@@ -1,5 +1,8 @@
 package persistence.entities;
-
+/*
+ Este comentario esta en la
+ rama brandon
+ * */
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
